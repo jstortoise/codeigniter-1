@@ -1,0 +1,217 @@
+body.unresponsive {
+    min-width: 970px;
+}
+body.unresponsive .container {
+    max-width: none !important;
+    width: 970px !important;
+}
+body.unresponsive [class^="col-"] {
+    float: left;
+}
+body.unresponsive .col-sm-1,
+body.unresponsive .col-md-1,
+body.unresponsive .col-lg-1 {
+    width: 8.33333333% !important;
+}
+body.unresponsive .col-sm-2,
+body.unresponsive .col-md-2,
+body.unresponsive .col-lg-2 {
+    width: 16.66666667% !important;
+}
+body.unresponsive .col-sm-3,
+body.unresponsive .col-md-3,
+body.unresponsive .col-lg-3 {
+    width: 25% !important;
+}
+body.unresponsive .col-sm-4,
+body.unresponsive .col-md-4,
+body.unresponsive .col-lg-4 {
+    width: 33.33333333% !important;
+}
+body.unresponsive .col-sm-5,
+body.unresponsive .col-md-5,
+body.unresponsive .col-lg-5 {
+    width: 41.66666667% !important;
+}
+body.unresponsive .col-sm-6,
+body.unresponsive .col-md-6,
+body.unresponsive .col-lg-6 {
+    width: 50% !important;
+}
+body.unresponsive .col-sm-7,
+body.unresponsive .col-md-7,
+body.unresponsive .col-lg-7 {
+    width: 58.33333333% !important;
+}
+body.unresponsive .col-sm-8,
+body.unresponsive .col-md-8,
+body.unresponsive .col-lg-8 {
+    width: 66.66666667% !important;
+}
+body.unresponsive .col-sm-9,
+body.unresponsive .col-md-9,
+body.unresponsive .col-lg-9 {
+    width: 75% !important;
+}
+body.unresponsive .col-sm-10,
+body.unresponsive .col-md-10,
+body.unresponsive .col-lg-10 {
+    width: 83.33333333% !important;
+}
+body.unresponsive .col-sm-11,
+body.unresponsive .col-md-11,
+body.unresponsive .col-lg-11 {
+    width: 91.66666667% !important;
+}
+body.unresponsive .col-sm-12,
+body.unresponsive .col-md-12,
+body.unresponsive .col-lg-12 {
+    width: 100% !important;
+}
+body.unresponsive .col-sm-offset-0,
+body.unresponsive .col-md-offset-0,
+body.unresponsive .col-lg-offset-0 {
+    margin-left: 0 !important;
+}
+body.unresponsive .col-sm-offset-1,
+body.unresponsive .col-md-offset-1,
+body.unresponsive .col-lg-offset-1 {
+    margin-left: 8.33333333% !important;
+}
+body.unresponsive .col-sm-offset-2,
+body.unresponsive .col-md-offset-2,
+body.unresponsive .col-lg-offset-2 {
+    margin-left: 16.66666667% !important;
+}
+body.unresponsive .col-sm-offset-3,
+body.unresponsive .col-md-offset-3,
+body.unresponsive .col-lg-offset-3 {
+    margin-left: 25% !important;
+}
+body.unresponsive .col-sm-offset-4,
+body.unresponsive .col-md-offset-4,
+body.unresponsive .col-lg-offset-4 {
+    margin-left: 33.33333333% !important;
+}
+body.unresponsive .col-sm-offset-5,
+body.unresponsive .col-md-offset-5,
+body.unresponsive .col-lg-offset-5 {
+    margin-left: 41.66666667% !important;
+}
+body.unresponsive .col-sm-offset-6,
+body.unresponsive .col-md-offset-6,
+body.unresponsive .col-lg-offset-6 {
+    margin-left: 50% !important;
+}
+body.unresponsive .col-sm-offset-7,
+body.unresponsive .col-md-offset-7,
+body.unresponsive .col-lg-offset-7 {
+    margin-left: 58.33333333% !important;
+}
+body.unresponsive .col-sm-offset-8,
+body.unresponsive .col-md-offset-8,
+body.unresponsive .col-lg-offset-8 {
+    margin-left: 66.66666667% !important;
+}
+body.unresponsive .col-sm-offset-9,
+body.unresponsive .col-md-offset-9,
+body.unresponsive .col-lg-offset-9 {
+    margin-left: 75% !important;
+}
+body.unresponsive .col-sm-offset-10,
+body.unresponsive .col-md-offset-10,
+body.unresponsive .col-lg-offset-10 {
+    margin-left: 83.33333333% !important;
+}
+body.unresponsive .col-sm-offset-11,
+body.unresponsive .col-md-offset-11,
+body.unresponsive .col-lg-offset-11 {
+    margin-left: 91.66666667% !important;
+}
+body.unresponsive .col-sm-offset-12,
+body.unresponsive .col-md-offset-12,
+body.unresponsive .col-lg-offset-12 {
+    margin-left: 100% !important;
+}
+body.unresponsive .visible-xs,
+body.unresponsive .visible-xs-block,
+body.unresponsive .visible-sm,
+body.unresponsive .visible-sm-block {
+    display: block !important;
+}
+body.unresponsive .visible-xs-inline,
+body.unresponsive .visible-sm-inline {
+    display: inline !important;
+}
+body.unresponsive .visible-xs-inline-block,
+body.unresponsive .visible-sm-inline-block {
+    display: inline-block !important;
+}
+body.unresponsive .hidden-xs,
+body.unresponsive .hidden-sm {
+    display: block !important;
+}
+body.unresponsive .container .navbar-header,
+body.unresponsive .container .navbar-collapse {
+    margin-right: 0;
+    margin-left: 0;
+}
+body.unresponsive .navbar-header {
+    float: left;
+}
+body.unresponsive .navbar-collapse {
+    display: block !important;
+    height: auto !important;
+    padding-bottom: 0;
+    overflow: visible !important;
+}
+body.unresponsive .navbar-toggle {
+    display: none;
+}
+body.unresponsive .navbar-collapse {
+    border-top: 0;
+}
+body.unresponsive .navbar-brand {
+    margin-left: -15px;
+}
+body.unresponsive .navbar-nav {
+    float: left;
+    margin: 0;
+}
+body.unresponsive .navbar-nav > li {
+    float: left;
+}
+body.unresponsive .navbar-nav > li > a {
+    padding: 15px;
+}
+body.unresponsive .navbar-nav.navbar-right {
+    float: right;
+}
+body.unresponsive .navbar .navbar-nav .open .dropdown-menu {
+    position: absolute;
+    float: left;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-width: 0 1px 1px;
+    border-radius: 0 0 4px 4px;
+    -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+}
+body.unresponsive .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #333;
+}
+body.unresponsive .navbar .navbar-nav .open .dropdown-menu > li > a:hover,
+body.unresponsive .navbar .navbar-nav .open .dropdown-menu > li > a:focus,
+body.unresponsive .navbar .navbar-nav .open .dropdown-menu > .active > a,
+body.unresponsive .navbar .navbar-nav .open .dropdown-menu > .active > a:hover,
+body.unresponsive .navbar .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #fff !important;
+    background-color: #428bca !important;
+}
+body.unresponsive .navbar .navbar-nav .open .dropdown-menu > .disabled > a,
+body.unresponsive .navbar .navbar-nav .open .dropdown-menu > .disabled > a:hover,
+body.unresponsive .navbar .navbar-nav .open .dropdown-menu > .disabled > a:focus {
+    color: #999 !important;
+    background-color: transparent !important;
+}

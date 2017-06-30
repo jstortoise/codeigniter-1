@@ -1,0 +1,99 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+
+#wallz{
+	
+	margin-top:25px;
+	margin-left: auto;
+	margin-right: auto
+}
+
+
+
+
+.fb_wall li{
+
+	list-style: none;
+	margin-bottom: 0px;
+	overflow: hidden;
+	padding-bottom: 0px;
+	position: relative;
+}
+
+
+
+.fb_wall li img.avatar{
+	float:left;
+}
+
+
+
+.fb_wall h2{
+	font-size:16px;
+	font-weight:normal;
+	margin-bottom: 5px;
+}
+
+
+
+.fb_wall .status{
+/*	width:500px;*/
+        width: 530px;
+	/*padding-left:65px;*/
+        padding-left:10px;
+}
+
+
+
+.fb_wall .img_attachment{
+	font-size: 12px;
+	margin-top: 14px;
+	overflow: hidden;
+	padding-left: 10px;
+}
+
+.fb_wall .data{
+	display:table-cell;
+	vertical-align:top;
+}
+
+.fb_wall img.external_pic{
+	float:left;
+	margin-right: 10px;
+}
+
+
+
+
+.fb_wall p.likes{
+	color: #BBBBBB;
+	font-size: 11px;
+	padding: 15px 0 0 65px;
+}
+
+
+
+.fb_wall a, a:visited {
+	text-decoration:none;
+	outline:none;
+	color:#3B5998;
+	 font-weight: bold;
+	 font-size: 11px;
+}
+
+.fb_wall a:hover{
+	text-decoration:underline;
+}
+
+.fb_wall p.caption ,p.description{
+	color:#808080;
+	font-size: 11px;
+}
+.fb_wall p.message {
+	color: #000000;
+    font-size: 11px;
+    font-weight: normal;
+}

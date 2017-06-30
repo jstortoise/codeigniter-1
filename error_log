@@ -1,0 +1,98 @@
+[14-Apr-2017 12:20:38 UTC] PHP Fatal error:  Call to undefined method Members::view() in /home/theeage/public_html/orriz.com/application/controllers/Members.php on line 213
+[14-Apr-2017 15:07:56 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[14-Apr-2017 15:49:06 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[14-Apr-2017 20:07:36 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[14-Apr-2017 21:08:44 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 00:14:33 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 00:24:01 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 00:24:10 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 00:24:11 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 00:24:14 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 00:24:22 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 00:54:52 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 01:39:02 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 02:24:46 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 03:17:19 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 05:39:38 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 08:02:31 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 08:33:29 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 09:22:01 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 10:13:46 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 11:44:06 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 12:45:48 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 14:36:58 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 19:23:44 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 22:07:58 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 22:34:04 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[15-Apr-2017 22:41:14 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 01:25:37 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 01:29:51 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 02:13:18 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 02:31:27 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 03:17:20 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 03:20:10 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 03:37:37 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 04:17:10 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 05:13:50 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 05:26:38 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 06:35:59 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 06:52:13 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 07:04:09 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 07:19:54 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 07:34:14 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 08:34:12 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 09:06:11 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 09:17:40 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 10:17:01 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 188
+[16-Apr-2017 10:17:13 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 12:42:58 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 13:26:36 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[16-Apr-2017 14:27:04 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 93
+[17-Apr-2017 11:15:39 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 188
+[18-Apr-2017 19:34:18 UTC] PHP Fatal error:  Call to undefined method Public_controller::view() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 122
+[19-Apr-2017 10:20:01 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/theeage/public_html/orriz.com/index.php on line 6
+[19-Apr-2017 10:20:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/theeage/public_html/orriz.com/index.php on line 6
+[19-Apr-2017 10:21:02 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/theeage/public_html/orriz.com/index.php on line 6
+[19-Apr-2017 10:21:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/theeage/public_html/orriz.com/index.php on line 6
+[19-Apr-2017 10:22:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/theeage/public_html/orriz.com/index.php on line 6
+[19-Apr-2017 10:23:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/theeage/public_html/orriz.com/index.php on line 6
+[19-Apr-2017 10:24:01 UTC] PHP Fatal error:  Cannot use [] for reading in /home/theeage/public_html/orriz.com/index.php on line 6
+[19-Apr-2017 10:25:01 UTC] PHP Fatal error:  Cannot use [] for reading in /home/theeage/public_html/orriz.com/index.php on line 6
+[19-Apr-2017 10:25:04 UTC] PHP Fatal error:  Cannot use [] for reading in /home/theeage/public_html/orriz.com/index.php on line 6
+[19-Apr-2017 10:25:04 UTC] PHP Fatal error:  Cannot use [] for reading in /home/theeage/public_html/orriz.com/index.php on line 6
+[19-Apr-2017 10:25:07 UTC] PHP Fatal error:  Cannot use [] for reading in /home/theeage/public_html/orriz.com/index.php on line 6
+[19-Apr-2017 10:25:07 UTC] PHP Fatal error:  Cannot use [] for reading in /home/theeage/public_html/orriz.com/index.php on line 6
+[19-Apr-2017 10:26:01 UTC] PHP Fatal error:  Cannot use [] for reading in /home/theeage/public_html/orriz.com/index.php on line 6
+[19-Apr-2017 10:27:01 UTC] PHP Fatal error:  Cannot use [] for reading in /home/theeage/public_html/orriz.com/index.php on line 6
+[19-Apr-2017 10:28:01 UTC] PHP Fatal error:  Cannot use [] for reading in /home/theeage/public_html/orriz.com/index.php on line 6
+[19-Apr-2017 10:29:01 UTC] PHP Fatal error:  Cannot use [] for reading in /home/theeage/public_html/orriz.com/index.php on line 6
+[19-Apr-2017 10:30:01 UTC] PHP Fatal error:  Cannot use [] for reading in /home/theeage/public_html/orriz.com/index.php on line 6
+[19-Apr-2017 10:31:01 UTC] PHP Fatal error:  Cannot use [] for reading in /home/theeage/public_html/orriz.com/index.php on line 6
+[20-Apr-2017 07:15:38 UTC] PHP Fatal error:  Call to a member function give_points() on null in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 79
+[20-Apr-2017 07:17:29 UTC] PHP Fatal error:  Call to a member function give_points() on null in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 79
+[20-Apr-2017 07:58:34 UTC] PHP Fatal error:  Call to a member function give_points() on null in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 79
+[20-Apr-2017 13:26:09 UTC] PHP Fatal error:  Call to a member function give_points() on null in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 79
+[20-Apr-2017 14:03:57 UTC] PHP Fatal error:  Call to a member function give_points() on null in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 79
+[24-Apr-2017 07:24:59 UTC] PHP Fatal error:  Call to undefined method Public_controller::simple_decrypt() in /home/theeage/public_html/orriz.com/application/controllers/Public_controller.php on line 51
+[01-May-2017 00:06:11 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/theeage/public_html/orriz.com/application/models/Member_model.php on line 323
+[01-May-2017 00:06:32 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/theeage/public_html/orriz.com/application/models/Member_model.php on line 323
+[01-May-2017 00:06:32 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/theeage/public_html/orriz.com/application/models/Member_model.php on line 323
+[01-May-2017 00:06:40 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/theeage/public_html/orriz.com/application/models/Member_model.php on line 323
+[01-May-2017 00:06:40 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/theeage/public_html/orriz.com/application/models/Member_model.php on line 323
+[01-May-2017 00:06:42 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/theeage/public_html/orriz.com/application/models/Member_model.php on line 323
+[01-May-2017 00:06:43 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/theeage/public_html/orriz.com/application/models/Member_model.php on line 323
+[01-May-2017 00:09:01 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/theeage/public_html/orriz.com/application/models/Member_model.php on line 388
+[01-May-2017 00:09:02 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/theeage/public_html/orriz.com/application/models/Member_model.php on line 388
+[05-May-2017 16:10:58 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/theeage/public_html/orriz.com/application/views/members/browsefriends.php on line 85
+[05-May-2017 16:11:01 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/theeage/public_html/orriz.com/application/views/members/browsefriends.php on line 85
+[05-May-2017 16:11:03 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/theeage/public_html/orriz.com/application/views/members/browsefriends.php on line 85
+[05-May-2017 16:11:04 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/theeage/public_html/orriz.com/application/views/members/browsefriends.php on line 85
+[05-May-2017 16:11:05 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/theeage/public_html/orriz.com/application/views/members/browsefriends.php on line 85
+[05-May-2017 16:11:11 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/theeage/public_html/orriz.com/application/views/members/browsefriends.php on line 85
+[05-May-2017 16:11:44 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/theeage/public_html/orriz.com/application/views/members/browsefriends.php on line 85
+[05-May-2017 16:11:45 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/theeage/public_html/orriz.com/application/views/members/browsefriends.php on line 85
+[05-May-2017 16:11:47 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/theeage/public_html/orriz.com/application/views/members/browsefriends.php on line 85
+[05-May-2017 16:11:47 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/theeage/public_html/orriz.com/application/views/members/browsefriends.php on line 85
+[05-May-2017 16:12:10 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/theeage/public_html/orriz.com/application/views/members/browsefriends.php on line 85
+[05-May-2017 16:12:13 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/theeage/public_html/orriz.com/application/views/members/browsefriends.php on line 85
+[05-May-2017 16:12:38 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/theeage/public_html/orriz.com/application/views/members/browsefriends.php on line 85
